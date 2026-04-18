@@ -1,0 +1,11 @@
+pandas
+numpy
+holidays
+geopy
+seaborn
+matplotlib
+plotly
+scikit-learn
+requests
+
+pip install requests
